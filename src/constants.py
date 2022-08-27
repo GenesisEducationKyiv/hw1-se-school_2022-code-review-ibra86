@@ -1,0 +1,2 @@
+SERVICE_NAME = 'BTC-RATE-API'
+CONFIG_FILE_NAME = 'config.yaml'
